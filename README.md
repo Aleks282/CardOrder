@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/us4lic3t0s95h28v?svg=true)](https://ci.appveyor.com/project/Aleks282/cardorder-k2pow)
+[![Build status](https://ci.appveyor.com/api/projects/status/tw24gjo5styair7r?svg=true)](https://ci.appveyor.com/project/Aleks282/cardorder-aeat0)
 
 # Домашнее задание к занятию «2.1. Тестирование веб-интерфейсов»
 
